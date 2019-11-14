@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=DIV_B Pin=B1-14
+Removed Pin From Net: NetName=PWM_B Pin=B1-15
+Removed Pin From Net: NetName=PWM_A Pin=B1-16
+Removed Pin From Net: NetName=DIV_A Pin=B1-17
+Removed Pin From Net: NetName=BUTTON0 Pin=B1-32
+Removed Pin From Net: NetName=BUTTON1 Pin=B1-33
+Removed Pin From Net: NetName=BUTTON2 Pin=B1-34
+Removed Pin From Net: NetName=BUTTON3 Pin=B1-35
+Removed Pin From Net: NetName=BUTTON4 Pin=B1-36
+Added Pin To Net: NetName=BUTTON0 Pin=B1-14
+Added Pin To Net: NetName=BUTTON1 Pin=B1-15
+Added Pin To Net: NetName=BUTTON2 Pin=B1-16
+Added Pin To Net: NetName=BUTTON3 Pin=B1-17
+Added Pin To Net: NetName=BUTTON4 Pin=B1-18
+Added Pin To Net: NetName=DIV_A Pin=B1-32
+Added Pin To Net: NetName=PWM_A Pin=B1-33
+Added Pin To Net: NetName=PWM_B Pin=B1-34
+Added Pin To Net: NetName=DIV_B Pin=B1-35
+Added Room: Name=Sheet2
